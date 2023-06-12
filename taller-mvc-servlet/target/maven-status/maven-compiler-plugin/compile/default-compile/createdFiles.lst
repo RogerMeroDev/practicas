@@ -1,0 +1,9 @@
+fin\coop1504\tallerjava\entidades\TabUsuario.class
+fin\coop1504\tallerjava\filtros\FiltroProcesamiento.class
+fin\coop1504\tallerjava\repositorios\RepositorioUsuario.class
+fin\coop1504\tallerjava\servicios\ServicioLogin.class
+fin\coop1504\tallerjava\controladores\ServletLogin.class
+fin\coop1504\tallerjava\servicios\ServicioEJB.class
+fin\coop1504\tallerjava\filtros\Autorizador.class
+fin\coop1504\tallerjava\datos\Usuario.class
+fin\coop1504\tallerjava\servicios\ServicioWebSaludo.class
